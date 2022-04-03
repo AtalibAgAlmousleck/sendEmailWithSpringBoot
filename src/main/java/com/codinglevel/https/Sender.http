@@ -1,0 +1,9 @@
+###
+POST http://localhost:8080/email/send
+Content-Type: application/json
+
+{
+  "name": "Benji",
+  "email": "atalibcodinglevel@gmail.com",
+  "message": "Hey Bro We Have Meeting Tomorrow night"
+}
